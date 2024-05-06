@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## ChatGPT Spatial Vision Management System
+# Workers-management
 
 **Purpose**
 
@@ -44,16 +40,9 @@ The purpose of the site is to provide every manager/inspector/head of Tzot with 
 4. Ensure proper authentication and permissions handling.
 5. Integrate external services as needed.
 
-**Contributors**
 
-- [Your Name]
-- [Your Team Members]
 
-**License**
-
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
-
-# System Under Construction: Siat Dashmia
+# System Under Construction
 
 **Note: This system is currently under construction. Changes and updates will be made over the next month until the finished product is released.**
 
